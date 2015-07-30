@@ -1,0 +1,5 @@
+Swype Keyboard To Pc
+
+1. Bluserver is meant for Pc and it is portable exe. so copy it to pc and just use it.
+
+2. Bluetoothkey.apk is meant for Android device,copy this to android device and open it,automatically it will install. Because it is not on Play Store you have to Check the option "Allow installation of app from sources other than the paly store"  from the setting of your android device(phone or tab).
